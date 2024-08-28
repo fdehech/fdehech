@@ -2,7 +2,7 @@
 <h3 align="center">Free Palestine 🇵🇸 </br> A Tunisian CS Student @University of Sousse</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdehech&label=Visitors&color=f7021b&style=plastic" alt="fdehech" /> </p>
 
-- 🌱 Currently learning **JQuery , ReactJS**
+- 🌱 Currently learning **JQuery , AJAX**
 
 - 📫 Mail me @ **dahechfourat@essths.u-sousse.tn**
 
