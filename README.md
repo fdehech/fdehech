@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dahesh Furat</h1>
-<h3 align="center">Free Palestine 🇵🇸 </br> A Tunisian CS Student @University of Sousse</h3>
+<h3 align="center"> Student @University of Sousse</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdehech&label=Visitors&color=f7021b&style=plastic" alt="fdehech" /> </p>
 
-- 🌱 Currently learning **JQuery , AJAX**
-
-- 📫 Mail me @ **dahechfourat@essths.u-sousse.tn**
-
-- ⚡ Fun Fact : **I mount my soul at /dev/null**
 
 
 <h3 align="left">Languages and Tools:</h3>
